@@ -1,0 +1,30 @@
+$color-grey-2: #ffffff;
+$color-white: #fff;
+$color-blue: #6200ea;
+$color-blue-1: #1a1a1a;
+$color-blue-2: #6b2bc5;
+$color-blue-3: #0c0808;
+$color-grey-d:#868686;
+
+$color-red: #c22020;
+$color-red-1: #2c0505;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body{
+    background-color: #192026;
+
+}
